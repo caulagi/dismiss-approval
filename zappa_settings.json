@@ -2,6 +2,9 @@
     "dev": {
         "app_function": "app.app",
         "aws_region": "eu-west-1",
+        "domain": "dismiss-approval.caulagi.com",
+        "lets_encrypt_key": "account.key",
+        "lets_encrypt_expression": "rate(85 days)",
         "profile_name": "dismiss-approval",
         "project_name": "dismiss-approval",
         "runtime": "python3.6",
