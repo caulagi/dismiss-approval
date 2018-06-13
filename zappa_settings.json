@@ -1,0 +1,10 @@
+{
+    "dev": {
+        "app_function": "app.app",
+        "aws_region": "eu-west-1",
+        "profile_name": "dismiss-approval",
+        "project_name": "dismiss-approval",
+        "runtime": "python3.6",
+        "s3_bucket": "github-dismiss-approval"
+    }
+}
